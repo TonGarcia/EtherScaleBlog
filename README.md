@@ -1,0 +1,2 @@
+# EtherScaleBlog
+EtherScale WordPress Blog
